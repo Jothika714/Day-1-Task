@@ -1,10 +1,9 @@
-Content:
-XMLHttpRequest
-Introduction to function
+
+XMLHttpRequest:
 
 step 1: Create a XHR Object
 var request = new XMLHttpRequest
-step 2: opemimg a connection to the server
+step 2: opeming a connection to the server
 Three parameters are used to open a connection to the Server
 1.Http Methods(GET, POST,PUT,DELETE)
 2.URL (from where to get data)
