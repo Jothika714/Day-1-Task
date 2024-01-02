@@ -29,7 +29,6 @@ request.onload = function(){
     console.log(result);
     for(i=1;i<result.length;i++){
         console.log(result[i].flags.png);
-        //console.log(result[i].name.common,result[i].area,result[i].population,result[i].region,result[i].flags.png);
     }
   }
 
